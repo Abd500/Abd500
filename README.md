@@ -1,6 +1,22 @@
-### Hi there 👋
+## Hi there I`m Abdullah Uzun 👋
 
-<!--
+
+
+
+<div id="header" align="center" >
+  
+  <a href="https://code.visualstudio.com/download">  <img src="https://user-images.githubusercontent.com/100370338/187721043-c9c82c80-d81c-4df4-a38f-69c458ef6854.png" width="60" />
+  
+
+
+
+
+
+</div>
+
+# Technologies and Tools 🔨
+
+
 **Abd500/Abd500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
