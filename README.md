@@ -7,12 +7,16 @@
   
   <a href="https://code.visualstudio.com/download">  <img src="https://user-images.githubusercontent.com/100370338/187721043-c9c82c80-d81c-4df4-a38f-69c458ef6854.png" width="60" />
   
+ 
+  
+  
+
+  </div
+
+<a href="https://user-images.githubusercontent.com/100370338/188125171-2ef0e492-ac84-448f-b64d-f0509c3a091f.png" width="60" />
 
 
 
-
-
-</div>
 
 # Technologies and Tools 🔨
 
